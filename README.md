@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# Simple JavaScript Game
-=======
+
 # Simple JavaScript Games
->>>>>>> origin/main
+
 
 ## Description
 
@@ -11,16 +9,6 @@ Welcome to the Simple JavaScript Game! This is a fun and easy game built with Ja
 ## Game Link
 
 [2048 Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/2048%20Game).
-<<<<<<< HEAD
-[Breakout Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Breakout%20Game).
-[Catch the Ball Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Catch%20the%20Ball).
-[Memory Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Memory%20Game).
-[Pong Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Pong%20Game).
-[Rock-Paper-Scissors Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Rock-Paper-Scissors).
-[Tic-Tac-Toe Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Tic-Tac-Toe).
-[Pong Game]().
-[Pong Game]().
-=======
 
 [Breakout Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Breakout%20Game).
 
@@ -35,10 +23,6 @@ Welcome to the Simple JavaScript Game! This is a fun and easy game built with Ja
 [Tic-Tac-Toe Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Tic-Tac-Toe).
 
 [Pong Game]().
-
-[Pong Game]().
-
->>>>>>> origin/main
 [Pong Game]().
 
 
