@@ -9,4 +9,3 @@
 
 # Game Photo:
 
-![alt text](image.png)
