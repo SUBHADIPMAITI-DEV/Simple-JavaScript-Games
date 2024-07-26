@@ -22,8 +22,9 @@ Welcome to the Simple JavaScript Game! This is a fun and easy game built with Ja
 
 [Tic-Tac-Toe Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Tic-Tac-Toe).
 
-[Pong Game]().
-[Pong Game]().
+[Flappy Bird Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Flappy%20Bird).
+
+
 
 
 ## Installation Instructions
