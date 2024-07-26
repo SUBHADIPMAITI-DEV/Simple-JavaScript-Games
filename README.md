@@ -1,4 +1,4 @@
-# Simple JavaScript Game
+# Simple JavaScript Games
 
 ## Description
 
