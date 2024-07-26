@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Memory Game</title>
+  <style>
+    body { text-align: center; }
+    .grid { display: grid; grid-template-columns: repeat(4, 100px); gap: 10px; justify-content: center; }
+    .card { width: 100px; height: 100px; background: #cccccc; display: flex; justify-content: center; align-items: center; font-size: 24px; cursor: pointer; }
+    .card.flipped { background: #ffffff; }
+  </style>
+</head>
+<body>
+  <h1>Memory Game</h1>
+  <div class="grid" id="gameGrid"></div>
+  <script src="memory.js"></script>
+</body>
+</html>
+
