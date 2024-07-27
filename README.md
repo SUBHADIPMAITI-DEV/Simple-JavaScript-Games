@@ -61,13 +61,16 @@ If you want contributions to the game or have specific guidelines for contributo
 
 ## License
 
-Specify the license under which the game is distributed.
+[MIT License](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games?tab=MIT-1-ov-file#readme)
 
-## Acknowledgements
 
-If you used resources or received help from others, acknowledge them here.
 
-## Contact
-
-Provide your contact information or a way for users to reach you for feedback or issues.
-
+# Contact
+## For Create issue
+```
+https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/issues
+```
+## Any Discussions about this project
+```
+https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/discussions
+```
