@@ -24,7 +24,9 @@ Welcome to the Simple JavaScript Game! This is a fun and easy game built with Ja
 
 [Flappy Bird Game](https://github.com/SUBHADIPMAITI-DEV/Simple-JavaScript-Games/tree/main/Flappy%20Bird).
 
+## Play The Games
 
+[TAP TO PLAY](https://subhadipmaiti-dev.github.io/Simple-JavaScript-Games/)
 
 
 ## Installation Instructions
